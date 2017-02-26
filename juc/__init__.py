@@ -1,4 +1,4 @@
-"""Jared's Utility Code"""
+"""Just Utility Code"""
 
 INFO = "All of my utility functions. Check individual modules for more info."
 VERSION = '1.33.7'
