@@ -1,5 +1,5 @@
 # juc
-Jared's Utility Code
+Just Utility Code
 
 Put the folder "juc" in directory:
 
